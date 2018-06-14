@@ -1,0 +1,9 @@
+.EditAppModal {
+  justify-content: center;
+  align-items: center;
+}
+
+.EditAppModal .paper {
+  padding: 20px;
+  outline: none;
+}

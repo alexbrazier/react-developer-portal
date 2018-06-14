@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.App .back {
+  position: absolute;
+  left: 10px;
+  top: 70px;
+  text-decoration: none;
+}
+
+@media (max-width: 500px) {
+  .App .back {
+    position: initial;
+  }
+}

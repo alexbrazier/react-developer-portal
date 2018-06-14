@@ -1,0 +1,12 @@
+.Login {
+  background-color: #14243c;
+  min-height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.Login .logo {
+  margin: 40px;
+  max-width: 80%;
+}

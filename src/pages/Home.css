@@ -1,0 +1,10 @@
+.Home {
+  text-align: center;
+}
+
+.Home .Apps {
+  display: flex;
+  justify-content: center;
+  flex-grow: 1;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,29 @@
+.NotFound {
+  background-color: #14243c;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  color: white;
+}
+
+.NotFound .left {
+  margin: 10px;
+  max-width: 500px;
+}
+
+.NotFound h1 {
+  font-size: 80px;
+}
+
+.NotFound p {
+  font-size: 35px;
+}
+
+.NotFound a {
+  text-decoration: none;
+}
+
+.NotFound img {
+  height: 400px;
+}

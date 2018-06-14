@@ -1,0 +1,17 @@
+.Header a {
+  text-decoration: none;
+  color: white;
+}
+
+.Header .logo {
+  height: 30px;
+  margin-right: 20px;
+}
+
+.Header .title {
+  flex: 1
+}
+
+.Header .avatar {
+  background-color: inherit;
+}
