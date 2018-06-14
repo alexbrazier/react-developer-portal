@@ -1,4 +1,7 @@
 # React Development Portal
+[![Build Status](https://travis-ci.org/alexbrazier/react-developer-portal.svg?branch=master)](https://travis-ci.org/alexbrazier/react-developer-portal)
+[![Dependency Status](https://img.shields.io/david/alexbrazier/react-developer-portal.svg)](https://david-dm.org/alexbrazier/react-developer-portal)
+[![devDependency Status](https://img.shields.io/david/dev/alexbrazier/react-developer-portal.svg)](https://david-dm.org/alexbrazier/react-developer-portal?type=dev)
 
 ## Getting Started
 ```
